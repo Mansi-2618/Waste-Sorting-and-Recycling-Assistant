@@ -1,0 +1,8 @@
+cardboard
+egg tray 
+glass
+thermocol
+wood
+paper
+plastic
+metal
