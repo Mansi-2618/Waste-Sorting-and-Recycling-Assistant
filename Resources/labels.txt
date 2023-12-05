@@ -1,0 +1,8 @@
+0 Glass
+1 Metal
+2 Paper
+3 Plastic
+4 Thermocol
+5 Cardboard
+6 Wood
+7 Egg Tray
