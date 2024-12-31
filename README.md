@@ -1,1 +1,1 @@
-# Waste-recycling-project
+# Waste-Sorting-and-Recycling-Assistant
